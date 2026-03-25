@@ -21,7 +21,7 @@ Follow these steps to configure the environment and start chatting with Carrot.
 ###  1. Install Dependencies
 First, clone the repository and install the required Python packages.
 ```bash
-git clone [https://github.com/Nomelonah/Carrot-AI.git](https://github.com/Nomelonah/Carrot-AI.git)
+git clone [[https://github.com/Nomelonah/Carrot-YourAIPartner.git](https://github.com/Nomelonah/Carrot-YourAIPartner.git)
 cd Carrot-AI
 pip install -r requirements.txt
 ```
